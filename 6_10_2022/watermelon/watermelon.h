@@ -1,0 +1,1 @@
+bool IsItPossibleToDivideBerry(const int& berry_weight);
